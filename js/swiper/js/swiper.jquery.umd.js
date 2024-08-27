@@ -4085,7 +4085,7 @@
      *
      * The 'wheel' event is more standard:
      *
-     * http://www.w3.org/TR/DOM-Level-3-Events/#events-wheelevents
+     * http://www.w3.org/en/DOM-Level-3-Events/#events-wheelevents
      *
      * The basics is that it includes a unit, deltaMode (pixels, lines, pages), and
      * deltaX, deltaY and deltaZ.  Some browsers provide other values to maintain
